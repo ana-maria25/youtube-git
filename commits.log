@@ -1,0 +1,98 @@
+commit fc3dab17402c9b918b70ea7a2d469692d4ee9964
+Author: Ani <alderete.ana92@gmail.com>
+Date:   Wed Jan 15 16:21:19 2025 -0300
+
+    Agregando 2 parrafos
+
+commit 05c6b0ce9a80b0f2b70176d8c00380195eab4dc2
+Merge: dea5e3f 8cd7617
+Author: Ani <alderete.ana92@gmail.com>
+Date:   Wed Jan 15 16:17:08 2025 -0300
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit dea5e3f5b415a5445154ba3e8d719eeb19e94e05
+Author: Ani <alderete.ana92@gmail.com>
+Date:   Wed Jan 15 15:51:32 2025 -0300
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 8cd7617ea481d193344f270fa0c3bfb1dbaebde6
+Author: Ani <alderete.ana92@gmail.com>
+Date:   Wed Jan 15 15:51:32 2025 -0300
+
+    Agregando las estaciones del año
+
+commit e934a5ead316362798b28f703f6eafa37c8c47b4
+Merge: e8cfc13 4f9954b
+Author: Ani <alderete.ana92@gmail.com>
+Date:   Tue Jan 14 19:07:19 2025 -0300
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 4f9954b999bf0fc4da55718541fc338719291451
+Author: Ani <alderete.ana92@gmail.com>
+Date:   Tue Jan 14 18:54:25 2025 -0300
+
+    Agregando index.js al index.html
+
+commit e8cfc133df5c5694bf85954065ac3532922ad50f
+Author: Ani <alderete.ana92@gmail.com>
+Date:   Tue Jan 14 18:48:17 2025 -0300
+
+    Agregando style.css al index.html
+
+commit f895f15a36efe330d4fb277e4fb381e7fabdec38
+Merge: 5b11add 6075093
+Author: Ani <alderete.ana92@gmail.com>
+Date:   Tue Jan 14 18:33:31 2025 -0300
+
+    Merge branch 'js'
+
+commit 607509332b8b63b821cc9a783317d6fa28253644
+Author: Ani <alderete.ana92@gmail.com>
+Date:   Tue Jan 14 18:19:18 2025 -0300
+
+    Creando index.js
+
+commit 5b11add3115436d1455a4b68cd46b9cca54974f7
+Author: Ani <alderete.ana92@gmail.com>
+Date:   Tue Jan 14 18:08:16 2025 -0300
+
+    Creando style.css
+
+commit 92646578c0f016dcdcdcb007684da01193b2b601
+Author: Ani <alderete.ana92@gmail.com>
+Date:   Mon Jan 13 21:43:31 2025 -0300
+
+    Creando index.html
+
+commit 176d5c25069bb7e01bcbb48181b6d7ef2931ef5f
+Author: Ani <alderete.ana92@gmail.com>
+Date:   Mon Jan 13 18:05:32 2025 -0300
+
+    Ignorando archivos .exe
+
+commit f5c3a8ed1b031c68401b221be989e7a65aa24659
+Author: Ani <73732038+ana-maria25@users.noreply.github.com>
+Date:   Sun Jan 12 13:25:18 2025 -0300
+
+    Creando licencia del repositorio
+
+commit 1da134501aa5d863ecd4d0f760d4076c807709d0
+Author: Ani <alderete.ana92@gmail.com>
+Date:   Sun Jan 12 13:10:20 2025 -0300
+
+    Agregando mas contenido al README
+
+commit 13f86c941a5b90f24a0a2f4f9964d49ffd17958b
+Author: Ani <alderete.ana92@gmail.com>
+Date:   Sun Jan 12 12:20:28 2025 -0300
+
+    Agregando contenido inicial al README
+
+commit 888e2985f8cac3dc630f5284190642a4b80b805e
+Author: Ani <alderete.ana92@gmail.com>
+Date:   Sun Jan 12 11:52:00 2025 -0300
+
+    Primer commit 😊
